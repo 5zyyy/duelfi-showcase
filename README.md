@@ -77,4 +77,5 @@ npm start
 
 This is a showcase project for client presentation. All external links and contract addresses have been removed for demonstration purposes.
 
+**Important**: The project is not currently not being maintained and not kept up-to-date!
 **Important**: The waitlist functionality will not work in the live demo site as the MongoDB database connection is not available. The waitlist form is displayed for visual purposes only.
